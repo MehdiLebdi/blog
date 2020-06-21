@@ -6,6 +6,6 @@
 https://MehdiLebdi.github.io/blog/
 
 
-## *Mehdi Lebdi
+## Mehdi Lebdi
 
 Jekyll and fastpages based blog and personal landing page
