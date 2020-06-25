@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Graduated from Drexel University College of Engineering with a Bachelors of Science in Computer Engineering and minors in Computer Science & Finance.
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+Recently graduated from Simon Fraser University with a Masters of Science in Computer Science - Specialization in Big Data. 
