@@ -27,9 +27,6 @@
   
 
   
-  
-
-  
 
   
   
@@ -40,13 +37,18 @@
   
 
   
+
+  
+  
+
+  
   
 
   
   
 
   
-      ,"page9": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://mehdilebdi.github.io/blog/robots.txt",
