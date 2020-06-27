@@ -40,6 +40,22 @@
   
 
   
+      ,"page3": {
+          "title": "Projects",
+          "content": "Projects . Machine Learning on IoT Data: Predicting Battery Health Status and User Type | Intelligent Transportation - Machine Learning in Taxi Industry | Real-Time Billing System for 4G/5G Network | Machine Learning Techniques for Stock Market Prediction | .",
+          "url": "https://mehdilebdi.github.io/blog/projects/",
+          "relUrl": "/projects/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+
+  
   
 
   
@@ -48,18 +64,13 @@
   
 
   
-
-  
   
 
   
   
 
   
-  
-
-  
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://mehdilebdi.github.io/blog/robots.txt",
