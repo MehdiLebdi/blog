@@ -6,10 +6,9 @@ permalink: /projects/
 
 <div style="text-align: center;">
     <img src="/blog/images/Profile_picture.jpg" alt="" title="Mehdi Lebdi"
-        style=" width: 350px; border-radius: 400px;" />
+        style=" width: 350px; border-radius: 400px;"/>
 </div>
 
-# Projects
 
 * <a href="" target="_blank">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</a>
 * <a href="" target="_blank">Intelligent Transportation - Machine Learning in Taxi Industry</a>
