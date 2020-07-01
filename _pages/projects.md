@@ -5,8 +5,8 @@ permalink: /projects/
 ---
 
 <div style="text-align: center;">
-    <img src="/blog/images/Profile_picture.jpg" alt="" title="Mehdi Lebdi"
-        style=" width: 350px; border-radius: 400px;"/>
+    <img src="/blog/images/Profile_picture.jpg" alt=""
+        style=" width: 300px; border-radius: 400px;"/>
 </div>
 
 
