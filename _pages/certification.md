@@ -6,7 +6,7 @@ permalink: /certification/
 
 <div style="text-align: center;">
     <img src="/blog/images/Profile_picture.jpg" alt=""
-        style=" width: 300px; border-radius: 400px;"/>
+        style=" width: 300px; border-radius: 400px; margin-bottom:10px;"/>
 </div>
 
 
