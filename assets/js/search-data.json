@@ -27,9 +27,20 @@
   
 
   
+      ,"page2": {
+          "title": "Certification",
+          "content": "IBM Data Science Professional Certificate, a 9-course professional certificate by IBM. Certificate earned on July 9, 2019 | .",
+          "url": "https://mehdilebdi.github.io/blog/certification/",
+          "relUrl": "/certification/",
+          "date": ""
+      }
+      
+  
 
   
-      ,"page3": {
+
+  
+      ,"page4": {
           "title": "Projects",
           "content": "Machine Learning on IoT Data: Predicting Battery Health Status and User Type | Intelligent Transportation - Machine Learning in Taxi Industry | Real-Time Billing System for 4G/5G Network | Machine Learning Techniques for Stock Market Prediction | .",
           "url": "https://mehdilebdi.github.io/blog/projects/",
@@ -59,7 +70,7 @@
   
 
   
-      ,"page11": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://mehdilebdi.github.io/blog/robots.txt",
