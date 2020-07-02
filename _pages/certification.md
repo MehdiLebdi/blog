@@ -9,5 +9,8 @@ permalink: /certification/
         style=" width: 300px; border-radius: 400px; margin-bottom:10px;"/>
 </div>
 
+<!--
+* Certification:
+-->
 
 * <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2QSDVFFB5CB6" target="_blank">IBM Data Science Professional Certificate, a 9-course professional certificate by IBM. Certificate earned on July 9, 2019</a>
