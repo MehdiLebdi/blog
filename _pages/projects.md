@@ -10,6 +10,10 @@ permalink: /projects/
 </div>
 
 <!--
+* Add Projects Description:
+-->
+
+<!--
 * <a href="" target="_blank">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</a>
 * <a href="" target="_blank">Intelligent Transportation - Machine Learning in Taxi Industry</a>
 * <a href="" target="_blank">Real-Time Billing System for 4G/5G Network</a>
