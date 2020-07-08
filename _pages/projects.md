@@ -7,9 +7,9 @@ permalink: /projects/
 <script> 
 $(document).ready(function(){
   $(".project").click(function(){
-    var idIndex = this.next().attr("id"); 
-    global.consol.log(idIndex)
-    $(idIndex).slideToggle("slow");
+    // var idIndex = this.next("div.description").attr("id"); 
+    // global.consol.log(idIndex);
+    $(this).next("div.description").slideToggle("slow");
   });
 });
 </script>
