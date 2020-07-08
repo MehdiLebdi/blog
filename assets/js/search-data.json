@@ -42,7 +42,7 @@
   
       ,"page4": {
           "title": "Projects",
-          "content": "Machine Learning on IoT Data: Predicting Battery Health Status and User Type • Built a predictive model that can warn of initial glitches or anomalies in battery health allowing early detection and prevention&lt;/br&gt; • Applied Supervised and Unsupervised methods such as K-Means Clustering and K-Nearest Neighbors to label health status of batteries&lt;/br&gt; • Developed Tableau* reports and dashboards from MongoDB to showcase Exploratory Data Analysis (EDA) and anomaly detection&lt;/br&gt; • Performed predictive analytics to identify global and contextual anomalies present in faulty batteries prompting early detection/prevention",
+          "content": "Machine Learning on IoT Data: Predicting Battery Health Status and User Type * Built a predictive model that can warn of initial glitches or anomalies in battery health allowing early detection and prevention * Applied Supervised and Unsupervised methods such as K-Means Clustering and K-Nearest Neighbors to label health status of batteries * Developed Tableau* reports and dashboards from MongoDB to showcase Exploratory Data Analysis (EDA) and anomaly detection * Performed predictive analytics to identify global and contextual anomalies present in faulty batteries prompting early detection/prevention",
           "url": "https://mehdilebdi.github.io/blog/projects/",
           "relUrl": "/projects/",
           "date": ""
