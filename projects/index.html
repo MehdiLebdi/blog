@@ -106,7 +106,7 @@ window.onload = wrap_img;
 <script> 
 $(document).ready(function(){
   $("#project").click(function(){
-    $("#description").slideToggle("slow");
+    $(this).next("#description").slideToggle("slow");
   });
 });
 </script>
