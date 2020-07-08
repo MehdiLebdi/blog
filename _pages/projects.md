@@ -7,14 +7,8 @@ permalink: /projects/
 <script> 
 $(document).ready(function(){
   $(".project").click(function(){
-    // var idIndex = this.next().attr("id"); 
+    // var idIndex = this.next("div.description").attr("id"); 
     // global.consol.log(idIndex);
-    $(this).next("div.description").slideToggle("slow");
-  });
-});
-
-$(document).ready(function(){
-  $("#project").click(function(){
     $(this).next("div.description").slideToggle("slow");
   });
 });
