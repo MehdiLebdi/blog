@@ -32,11 +32,17 @@ $(document).ready(function(){
         style=" width: 300px; border-radius: 400px; margin-bottom:10px;"/>
 </div>
 
-<div id="project">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
-<div id="description">* Built a predictive model that can warn of initial glitches or anomalies in battery health allowing early detection and prevention
-* Applied Supervised and Unsupervised methods such as K-Means Clustering and K-Nearest Neighbors to label health status of batteries
-* Developed Tableau* reports and dashboards from MongoDB to showcase Exploratory Data Analysis (EDA) and anomaly detection
+* <div id="project" style="list-style: none;">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
+<div id="description">
+
+* Built a predictive model that can warn of initial glitches or anomalies in battery health allowing early detection and prevention  <br />  
+
+* Applied Supervised and Unsupervised methods such as K-Means Clustering and K-Nearest Neighbors to label health status of batteries  <br />  
+
+* Developed Tableau* reports and dashboards from MongoDB to showcase Exploratory Data Analysis (EDA) and anomaly detection  <br />  
+
 * Performed predictive analytics to identify global and contextual anomalies present in faulty batteries prompting early detection/prevention
+
 </div>
 
 <!-- 
