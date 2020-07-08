@@ -7,7 +7,7 @@ permalink: /projects/
 <script> 
 $(document).ready(function(){
   $("#project").click(function(){
-    $("#description").slideToggle("slow");
+    $(this).next("#description").slideToggle("slow");
   });
 });
 </script>
@@ -32,6 +32,7 @@ $(document).ready(function(){
     <img src="/blog/images/Profile_picture.jpg" alt=""
         style=" width: 300px; border-radius: 400px; margin-bottom:10px;"/>
 </div>
+
 
 <div id="project">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
 <div id="description">
