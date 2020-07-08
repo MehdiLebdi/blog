@@ -41,8 +41,11 @@ $(document).ready(function(){
 * <a href="" target="_blank">Machine Learning Techniques for Stock Market Prediction</a>
 -->
 
-* <div id="project">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
-<div id="description">• Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
+<div id="project">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
+<div id="description">• Built a predictive model that can warn of initial glitches or anomalies in battery health allowing early detection and prevention</br>
+• Applied Supervised and Unsupervised methods such as K-Means Clustering and K-Nearest Neighbors to label health status of batteries</br>
+• Developed Tableau* reports and dashboards from MongoDB to showcase Exploratory Data Analysis (EDA) and anomaly detection</br>
+• Performed predictive analytics to identify global and contextual anomalies present in faulty batteries prompting early detection/prevention</div>
 
 <!-- 
 * Machine Learning on IoT Data: Predicting Battery Health Status and User Type
