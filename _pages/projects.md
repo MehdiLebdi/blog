@@ -22,6 +22,10 @@ $(document).ready(function(){
   font-size: 15px;
 }
 
+.project {
+    cursor: pointer;
+}
+
 .description {
   padding: 10px;
   display: none;
