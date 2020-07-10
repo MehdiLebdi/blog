@@ -11,8 +11,7 @@ permalink: /about/
 
 <!--
 * Add Icons:
-LinkedIn
-Github
+- LinkedIn
 -->
 
 Graduated from Drexel University College of Engineering with a Bachelors of Science in Computer Engineering and minors in Computer Science & Finance.
