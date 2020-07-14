@@ -37,6 +37,9 @@ $(document).ready(function(){
         style=" width: 300px; border-radius: 400px; margin-bottom:10px;"/>
 </div>
 
+<!--
+    Projects Page
+-->
 
 <div class="project">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
 <div id= "proj1" class="description">
