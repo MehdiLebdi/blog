@@ -69,3 +69,7 @@ Perceptron (MLP) using Keras and TensorFlow libraries to select the winning mode
 • Designed a profitability analysis algorithm and simulated profitability analysis for all models using Matplotlib and Seaborn libraries
 </div>
 
+<div class="project">Cluster And Segment Neighborhoods In Major Cities</div>
+<div id= "proj5" class="description">
+• End-to-end Data Science project
+</div>
