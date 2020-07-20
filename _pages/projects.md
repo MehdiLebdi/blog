@@ -71,5 +71,5 @@ Perceptron (MLP) using Keras and TensorFlow libraries to select the winning mode
 
 <div class="project">Cluster And Segment Neighborhoods In Major Cities</div>
 <div id= "proj5" class="description">
-• End-to-end Data Science project
+• End-to-end Data Science project - Examples taken from New York City and Toronto
 </div>
