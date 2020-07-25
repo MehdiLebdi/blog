@@ -37,7 +37,13 @@ $(document).ready(function(){
     <img src="/blog/images/Profile_picture.jpg" alt=""
         style=" width: 300px; border-radius: 400px; margin-bottom:10px;"/>
 </div>
-
+<!--
+    <a rel="me" title="linkedin.com/in/mehdi-lebdi" href="https://www.linkedin.com/in/mehdi-lebdi/" target="_blank">
+        <svg class="svg-icon grey" style="height: 25px; width: 25px;">
+            <use xlink:href="/blog/assets/minima-social-icons.svg#github"></use>
+        </svg>
+    </a>
+-->
 <div class="project">Machine Learning on IoT Data: Predicting Battery Health Status and User Type</div>
 <div id= "proj1" class="description">
 • Built a predictive model that can warn of initial glitches or anomalies in battery health allowing early detection and prevention  <br/><br/>   
@@ -69,6 +75,9 @@ Perceptron (MLP) using Keras and TensorFlow libraries to select the winning mode
 • Designed a profitability analysis algorithm and simulated profitability analysis for all models using Matplotlib and Seaborn libraries
 </div>
 
+<!--
+Add Project details
+-->
 <div class="project">Cluster And Segment Neighborhoods In Major Cities</div>
 <div id= "proj5" class="description">
 • End-to-end Data Science project - Examples taken from New York City and Toronto
